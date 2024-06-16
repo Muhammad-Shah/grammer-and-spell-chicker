@@ -12,3 +12,5 @@ Features
 *   Corrects spelling and grammar errors in user-inputted text
 *   Uses the Language Tool Python library for grammar and style checking
 *   Provides a user-friendly interface for inputting text and viewing corrections
+
+The
